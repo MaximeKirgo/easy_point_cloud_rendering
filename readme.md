@@ -1,10 +1,14 @@
 This repository contains a small extension to the [BlenderToolBox](https://github.com/HTDerekLiu/BlenderToolbox) of [Hsueh-Ti Derek Liu](https://github.com/HTDerekLiu). It provides a simple interface to render scalar fields on point clouds efficiently by leveraging Blender's geometry nodes.
 
-The renders can be performed as panoramic renders or standard renders.
-
 <p align="center">
   <img align="center"  src="/renders/RhombicDodecahedron.png", width=400>
 </p>
+
+# Features
+- Usage of geometry nodes to efficiently render large-scale point clouds;
+- panoramic or standard rendering option;
+- parula colormap for scalar field rendering;
+- RGB point cloud rendering from ply scalar fields.
 
 # Installation
 1. Download blender 3.2 alpha.
