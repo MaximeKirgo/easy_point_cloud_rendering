@@ -3,7 +3,7 @@ This repository contains a small extension to the [https://github.com/HTDerekLiu
 The renders can be performed as panoramic renders or standard renders.
 
 <p align="center">
-  <img align="center"  src="/renders/RhombicDodecahedron.png", width=800>
+  <img align="center"  src="/renders/RhombicDodecahedron.png", width=400>
 </p>
 
 # Installation
