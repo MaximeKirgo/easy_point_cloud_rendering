@@ -1,4 +1,4 @@
-This repository contains a small extension to the [https://github.com/HTDerekLiu/BlenderToolbox](BlenderToolBox) of [https://github.com/HTDerekLiu](Hsueh-Ti Derek Liu). It provides a simple interface to render scalar fields on point clouds efficiently by leveraging Blender's geometry nodes.
+This repository contains a small extension to the [BlenderToolBox](https://github.com/HTDerekLiu/BlenderToolbox) of [Hsueh-Ti Derek Liu](https://github.com/HTDerekLiu). It provides a simple interface to render scalar fields on point clouds efficiently by leveraging Blender's geometry nodes.
 
 The renders can be performed as panoramic renders or standard renders.
 
