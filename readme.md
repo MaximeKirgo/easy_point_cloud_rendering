@@ -12,7 +12,7 @@ This repository contains a small extension to the [BlenderToolBox](https://githu
 
 # Installation
 1. Download blender 3.2 alpha.
-2. Install BlenderToolBox.
+2. Install [BlenderToolBox](https://github.com/HTDerekLiu/BlenderToolbox).
 3. Modify ``blenderInit.py`` at line 31 as follows:
 ```python
 #bpy.data.scenes[0].view_layers['View Layer']['cycles']['use_denoising'] = 1
@@ -24,4 +24,4 @@ bpy.context.scene.cycles.use_preview_denoising = True
 # Run
 1. Modify the ``run.bat`` (or ``run.sh``) so that the blender python path corresponds to your blender 3.2 alpha.
 2. Modify the path to the BlenderToolBox in ``main.py``.
-3. launch ``run.ba``t (or ``run.sh``).
+3. launch ``run.bat`` (or ``run.sh``).
