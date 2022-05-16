@@ -1,4 +1,4 @@
-This repository contains a small extension to the [BlenderToolBox](https://github.com/HTDerekLiu/BlenderToolbox) of [Hsueh-Ti Derek Liu](https://github.com/HTDerekLiu). It provides a simple interface to render scalar fields on point clouds efficiently by leveraging Blender's geometry nodes.
+This repository contains a small extension to the [BlenderToolBox](https://github.com/HTDerekLiu/BlenderToolbox) of [Hsueh-Ti Derek Liu](https://github.com/HTDerekLiu). It provides a simple interface to render scalar fields on point clouds efficiently. To do so, it leverages Blender's geometry nodes instead of a particle system of primitives.
 
 <p align="center">
   <img align="center"  src="/renders/RhombicDodecahedron.png", width=400>
